@@ -1,1 +1,1 @@
-# students_list
+# Simple-Student-information-system-android-project
